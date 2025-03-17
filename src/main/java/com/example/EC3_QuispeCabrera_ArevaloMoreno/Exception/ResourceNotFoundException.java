@@ -1,4 +1,4 @@
-package com.example.EC3_QuispeCabrera.Exception;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Exception;
 
 public class ResourceNotFoundException extends RuntimeException{
 

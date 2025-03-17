@@ -1,9 +1,7 @@
-package com.example.EC3_QuispeCabrera.Service;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Service;
 
-import com.example.EC3_QuispeCabrera.Exception.ResourceNotFoundException;
-import com.example.EC3_QuispeCabrera.Model.Proveedor;
-import com.example.EC3_QuispeCabrera.Repository.ProveedorRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Model.Proveedor;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Repository.ProveedorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

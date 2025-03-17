@@ -1,4 +1,4 @@
-package com.example.EC3_QuispeCabrera;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

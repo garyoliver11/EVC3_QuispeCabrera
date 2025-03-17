@@ -1,4 +1,4 @@
-package com.example.EC3_QuispeCabrera.Exception;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

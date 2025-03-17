@@ -1,16 +1,14 @@
-package com.example.EC3_QuispeCabrera.Controller;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Controller;
 
 
-import com.example.EC3_QuispeCabrera.Exception.ResourceNotFoundException;
-import com.example.EC3_QuispeCabrera.Model.Libro;
-import com.example.EC3_QuispeCabrera.Service.LibroService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Exception.ResourceNotFoundException;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Model.Libro;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Service.LibroService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/libros")

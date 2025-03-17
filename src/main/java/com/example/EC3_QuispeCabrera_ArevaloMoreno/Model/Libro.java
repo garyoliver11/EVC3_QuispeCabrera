@@ -1,4 +1,4 @@
-package com.example.EC3_QuispeCabrera.Model;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Model;
 
 import jakarta.persistence.*;
 

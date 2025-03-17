@@ -1,4 +1,4 @@
-package com.example.EC3_QuispeCabrera.Exception;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Exception;
 
 import java.util.Date;
 

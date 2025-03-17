@@ -1,15 +1,13 @@
-package com.example.EC3_QuispeCabrera.Controller;
+package com.example.EC3_QuispeCabrera_ArevaloMoreno.Controller;
 
-import com.example.EC3_QuispeCabrera.Exception.ResourceNotFoundException;
-import com.example.EC3_QuispeCabrera.Model.Proveedor;
-import com.example.EC3_QuispeCabrera.Service.ProveedorService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Exception.ResourceNotFoundException;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Model.Proveedor;
+import com.example.EC3_QuispeCabrera_ArevaloMoreno.Service.ProveedorService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/proveedores")
